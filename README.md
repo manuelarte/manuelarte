@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **manuelarte/manuelarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,21 +14,36 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi There: 👋
-Hi, I am Manuel Doncel Martos (or manuelarte). I am a Java Developer currently working in Go. I like learning new programming langugues, so that's why you are going to find me also programming in other languages like Python or Rust.
+
+Hi! I'm **Manuel Doncel Martos** (a.k.a. **manuelarte**).  
+
+I am a **Java Developer** currently working with **Go**. I'm passionate about learning new programming languages, which is why you'll also find me exploring languages like **Python** and **Rust**. I enjoy tackling challenges, experimenting with different tech stacks, and growing as a developer.
+
 
 ## 🔗 Contact:
 
-- <a href="https://www.linkedin.com/in/manueldoncelmartos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Manuel's LinkedIn" height="32" width="32" /></a>
-- <a href="mailto:manueldoncelmartos@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Manuel's email" height="32" width="32" /></a>
+Feel free to reach out or connect with me through the following platforms: 
 
-# 💻 Tech Stack:
+<a href="https://www.linkedin.com/in/manueldoncelmartos/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32" width="32" />
+</a>  
+<a href="mailto:manueldoncelmartos@gmail.com" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Email" height="32" width="32" />
+</a>
+
+## 💻 Tech Stack:
+
+### Programming Languages  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+### Frameworks and Tools 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### DevOps & Cloud
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -42,3 +55,9 @@ Hi, I am Manuel Doncel Martos (or manuelarte). I am a Java Developer currently w
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manuelarte&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+
+🌱 I'm always looking to learn, grow, and contribute to exciting projects. Let’s build something amazing together!
+
