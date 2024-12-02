@@ -50,6 +50,7 @@ Feel free to reach out or connect with me through the following platforms:
 ### DevOps & Cloud
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 
 # 📊 GitHub Stats:
@@ -62,6 +63,8 @@ Feel free to reach out or connect with me through the following platforms:
 
 ---
 
+## 🌱 I’m currently learning ...
 
-🌱 I'm always looking to learn, grow, and contribute to exciting projects. Let’s build something amazing together!
+I'm always looking to learn, grow, and contribute to exciting projects.
+Currently motivated to develop my first video game, using [Godot engine](https://godotengine.org/) to bring creative concepts to life.
 
