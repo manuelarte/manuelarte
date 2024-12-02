@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 badges: https://github.com/inttter/md-badges
 -->
 
-# 👋 Hi There: 👋
+# 👋 Hi There:
 
 Hi! I'm **Manuel Doncel Martos** (a.k.a. **manuelarte**).  
 
