@@ -52,6 +52,12 @@ Feel free to reach out or connect with me through the following platforms:
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
+## 🌱 I’m currently learning ...
+
+I'm always looking to learn, grow, and contribute to exciting projects.
+Currently motivated to develop my first video game, using [Godot engine](https://godotengine.org/) to bring creative concepts to life.
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manuelarte&theme=dark&hide_border=false&count_private=true)<br/>
@@ -60,11 +66,4 @@ Feel free to reach out or connect with me through the following platforms:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manuelarte&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🌱 I’m currently learning ...
-
-I'm always looking to learn, grow, and contribute to exciting projects.
-Currently motivated to develop my first video game, using [Godot engine](https://godotengine.org/) to bring creative concepts to life.
 
