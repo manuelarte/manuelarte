@@ -57,6 +57,23 @@ Feel free to reach out or connect with me through the following platforms:
 I'm always looking to learn, grow, and contribute to exciting projects.
 Currently motivated to develop my first video game, using [Godot engine](https://godotengine.org/) to bring creative concepts to life.
 
+## Live Projects
+
+### [Mazemory](https://manuelarte.itch.io/mazemory) (ongoing)
+My first game ever made. A maze solving game.
+#### Technology stack
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)
+[GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
+
+### ToastedSherpa
+A [Discord](https://discord.com/) bot that parse screenshots of player's profile for the video game [Escape From Tarkov](https://escapefromtarkov.com/) and extract data to get statistics about "reported" players.
+Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024/08/tarkov-profile-parsed-toastedsherpa.html)
+#### Technology stack
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[OpenCV](https://opencv.org/)
+
 ---
 
 # 📊 GitHub Stats:
