@@ -60,6 +60,8 @@ Feel free to reach out or connect with me through the following platforms:
 I'm always looking to learn, grow, and contribute to exciting projects.
 Currently motivated to develop my first video game, using [Godot engine](https://godotengine.org/) to bring creative concepts to life.
 
+<details>
+        
 ## 📡 Live Projects
 
 ### [Mazemory](https://manuelarte.itch.io/mazemory) (ongoing)
@@ -79,6 +81,8 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 [Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+
+</details>
 ---
 
 # 📊 GitHub Stats:
