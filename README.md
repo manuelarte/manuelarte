@@ -125,7 +125,7 @@ An web app to keep track of your football boots, and your performance using them
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
-</summary>
+</details>
 ---
 
 # 📊 GitHub Stats:
