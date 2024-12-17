@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 badges: https://github.com/inttter/md-badges
+        https://github.com/Ileriayo/markdown-badges
 -->
 
 # 👋 Hi There:
@@ -64,7 +65,7 @@ My first game ever made. A maze solving game.
 #### Technology stack
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)
-[GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### ToastedSherpa
 A [Discord](https://discord.com/) bot that parse screenshots of player's profile for the video game [Escape From Tarkov](https://escapefromtarkov.com/) and extract data to get statistics about "reported" players.
@@ -72,7 +73,7 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 #### Technology stack
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
-[OpenCV](https://opencv.org/)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 ---
 
