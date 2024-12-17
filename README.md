@@ -61,6 +61,7 @@ I'm always looking to learn, grow, and contribute to exciting projects.
 Currently motivated to develop my first video game, using [Godot engine](https://godotengine.org/) to bring creative concepts to life.
 
 <details>
+<summary>Live Projects</summary>
         
 ## 📡 Live Projects
 
