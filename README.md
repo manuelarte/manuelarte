@@ -77,6 +77,7 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)
 ---
 
 # 📊 GitHub Stats:
