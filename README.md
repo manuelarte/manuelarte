@@ -57,7 +57,7 @@ Feel free to reach out or connect with me through the following platforms:
 I'm always looking to learn, grow, and contribute to exciting projects.
 Currently motivated to develop my first video game, using [Godot engine](https://godotengine.org/) to bring creative concepts to life.
 
-## Live Projects
+## 📡 Live Projects
 
 ### [Mazemory](https://manuelarte.itch.io/mazemory) (ongoing)
 My first game ever made. A maze solving game.
