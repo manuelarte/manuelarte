@@ -64,6 +64,9 @@ Currently motivated to develop my first video game, using [Godot engine](https:/
 
 <details>
 <summary>Open for more details</summary>
+
+* [Mazemory](#Mazemory)
+* [ToastedSherpa](#ToastedSherpa)
         
 ### [Mazemory](https://manuelarte.itch.io/mazemory) (ongoing)
 My first game ever made. A maze solving game.
@@ -87,10 +90,17 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 ---
 
 # 📊 GitHub Stats:
+<details>
+<summary>Open for more details</summary>
 ![](https://github-readme-stats.vercel.app/api?username=manuelarte&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manuelarte&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarte&theme=dark&hide_border=false&count_private=true&layout=compact)
+</details>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manuelarte&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<details>
+<summary>Open for more details</summary>
+![](https://github-profile-trophy.vercel.app/?username=manuelarte&theme=radical&no-frame=false&no-bg=false&margin-w=4)        
+</details>
+
 
