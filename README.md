@@ -75,9 +75,9 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+[Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
-[Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)
 ---
 
 # 📊 GitHub Stats:
