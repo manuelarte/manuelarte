@@ -21,7 +21,6 @@ Hi! I'm **Manuel Doncel Martos** (a.k.a. **manuelarte**).
 
 I am a **Java Developer** currently working with **Go**. I'm passionate about learning new programming languages, which is why you'll also find me exploring languages like **Python** and **Rust**. I enjoy tackling challenges, experimenting with different tech stacks, and growing as a developer.
 
-
 ## 🔗 Contact:
 
 Feel free to reach out or connect with me through the following platforms: 
@@ -96,16 +95,16 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 * [TarkovTeamKillTracker](#TarkovTeamKillTracker)
 * [FootballBootsTracker](#FootballBootsTracker)
 
-### MySportfolio
-An Android app to keep track of your sport events. You can also keep track of the goals and assist you made, and rate your performance. Then you could have statistics.
+### 📊 MySportfolio
+An Android app designed for amateur and recreational football players to log their matches, track individual goals, assist and evaluate their overall performance. The app provided statistics and insight sucha as total goals, asists, progess over time, helping players improve their game and stay motivated.
 
 #### Technology stack
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
   
-### TarkovTeamKillTracker
-A discord bot that was used to keep track of team kills among friends in the game Escape From Tarkov. When an "accident" would happen, you would register it and you would get a roast for your action. You could also get achievements.
+### 🔫 TarkovTeamKillTracker
+A fun and interactive Discord bot designed for Escape From Tarkov players to log and track team kills among friends. Whenever a team kill is registered, the bot delivers a humorous or savage roast to the guilty player. It also features an achievement system to reward or shame players for their notorious "friendly fire" incidents.
 
 #### Technology stack
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
@@ -115,7 +114,7 @@ A discord bot that was used to keep track of team kills among friends in the gam
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
 #### FootballBootsTracker
-An web app to keep track of your football boots, and your performance using them.
+An web app to keep track of your football boots, and your performance using them, using Event Sourcing and [CQRS](https://martinfowler.com/bliki/CQRS.html) with the Axon Framework.
 #### Technology stack
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
