@@ -131,15 +131,19 @@ An web app to keep track of your football boots, and your performance using them
 # 📊 GitHub Stats:
 <details>
 <summary>Open for more details</summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=manuelarte&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manuelarte&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarte&theme=dark&hide_border=false&count_private=true&layout=compact)
+
 </details>
 
 ## 🏆 GitHub Trophies
 <details>
 <summary>Open for more details</summary>
-![](https://github-profile-trophy.vercel.app/?username=manuelarte&theme=radical&no-frame=false&no-bg=false&margin-w=4)        
+
+![](https://github-profile-trophy.vercel.app/?username=manuelarte&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+      
 </details>
 
 
