@@ -87,6 +87,44 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
 </details>
+
+## 👨‍🎓 Failure Projects
+<details>
+<summary>Open for more details</summary>
+        
+* [MySportfolio](#MySportfolio)
+* [TarkovTeamKillTracker](#TarkovTeamKillTracker)
+* [FootballBootsTracker](#FootballBootsTracker)
+
+### MySportfolio
+An Android app to keep track of your sport events. You can also keep track of the goals and assist you made, and rate your performance. Then you could have statistics.
+
+#### Technology stack
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
+  
+### TarkovTeamKillTracker
+A discord bot that was used to keep track of team kills among friends in the game Escape From Tarkov. When an "accident" would happen, you would register it and you would get a roast for your action. You could also get achievements.
+
+#### Technology stack
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+
+#### FootballBootsTracker
+An web app to keep track of your football boots, and your performance using them.
+#### Technology stack
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+- AxonFrameWork
+- CQRS and Event Sourcing
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+
+</summary>
 ---
 
 # 📊 GitHub Stats:
