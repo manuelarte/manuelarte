@@ -97,12 +97,17 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 * [FootballBootsTracker](#FootballBootsTracker)
 
 ### 📊 MySportfolio
-An Android app designed for amateur and recreational football players to **log their matches, track individual goals, assist and evaluate their overall performance**. The app provided statistics and insight such as total goals, asists, progess over time, helping players improve their game and stay motivated.
+An Android app designed for amateur and recreational football players to **log their matches, track individual goals, assist and evaluate their overall performance**. The app provided statistics and insight such as total goals, assists, progess over time, etc, helping players improve their game and stay motivated.
 
 #### Technology stack
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#
   
 ### 🔫 TarkovTeamKillTracker
 A fun and interactive Discord bot designed for Escape From Tarkov players to **log and track team kills among friends**. Whenever a team kill is registered, the bot delivers a humorous roast to the guilty player. It also had achievements to *"reward"* players for their "friendly fire" incidents.
