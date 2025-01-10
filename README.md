@@ -96,7 +96,7 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 * [TarkovTeamKillTracker](#TarkovTeamKillTracker)
 * [FootballBootsTracker](#FootballBootsTracker)
 
-### 📊 MySportfolio
+### ⚽ MySportfolio
 An Android app designed for amateur and recreational football players to **log their matches, track individual goals, assist and evaluate their overall performance**. The app provided statistics and insight such as total goals, assists, progess over time, etc, helping players improve their game and stay motivated.
 
 #### Technology stack
@@ -120,7 +120,7 @@ A fun and interactive Discord bot designed for Escape From Tarkov players to **l
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
-#### FootballBootsTracker
+### 📊 FootballBootsTracker
 An web app to keep track of your football boots, and your performance, goals and assists using them. It featured an Event Sourcing and [CQRS](https://martinfowler.com/bliki/CQRS.html) with the Axon Framework architecture.
 #### Technology stack
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
