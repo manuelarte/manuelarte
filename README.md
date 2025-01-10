@@ -107,7 +107,7 @@ An Android app designed for amateur and recreational football players to **log t
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
   
 ### 🔫 TarkovTeamKillTracker
 A fun and interactive Discord bot designed for Escape From Tarkov players to **log and track team kills among friends**. Whenever a team kill is registered, the bot delivers a humorous roast to the guilty player. It also had achievements to *"reward"* players for their "friendly fire" incidents.
