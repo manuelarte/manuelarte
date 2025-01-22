@@ -125,7 +125,7 @@ An web app to keep track of your football boots, and your performance, goals and
 #### Technology stack
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![Axon Framework]([1])](#)
+[![Axon Framework][1]](#)
 - CQRS
 - Event Sourcing
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
