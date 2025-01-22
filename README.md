@@ -126,8 +126,8 @@ An web app to keep track of your football boots, and your performance, goals and
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Axon Framework](https://img.shields.io/badge/AxonFramework-white)](#)
-- CQRS
-- Event Sourcing
+[![CQRS](https://img.shields.io/badge/CQRS-white)](#)
+[![Event Sourcing](https://img.shields.io/badge/EventSourcing-white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
