@@ -110,7 +110,7 @@ An Android app designed for amateur and recreational football players to **log t
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
   
 ### 🔫 TarkovTeamKillTracker
-A fun and interactive Discord bot designed for Escape From Tarkov players to **log and track team kills among friends**. Whenever a team kill is registered, the bot delivers a humorous roast to the guilty player. It also had achievements to *"reward"* players for their "friendly fire" incidents.
+A fun and interactive Discord bot designed for Escape From Tarkov players to **log and track team kills among friends**. Whenever a team kill is registered, the bot delivers a humorous roast to the team killed perpetrator. It also had achievements to *"reward"* 🏆 players for their *"friendly fire"*.
 
 #### Technology stack
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
@@ -125,7 +125,7 @@ An web app to keep track of your football boots, and your performance, goals and
 #### Technology stack
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-![Axon Framework]([1])
+[![Axon Framework]([1])
 - CQRS
 - Event Sourcing
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
