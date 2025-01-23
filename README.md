@@ -139,8 +139,14 @@ An web app to keep track of your football boots, and your performance, goals and
 During my career as a software developer, I have had the privilege of working alongside many talented professionals, here I give some kudos to some of them:
 
 
-![mechero](https://github-kudos.com/manuelarte/kudos/mechero?light=false)
-![ilinsky](https://github-kudos.com/manuelarte/kudos/ilinsky?light=false)
+<picture>
+  <source srcset="https://github-kudos.com/manuelarte/kudos/mechero?light=false#2" media="(prefers-color-scheme: dark)">
+  <img src="https://github-kudos.com/manuelarte/kudos/mechero?light=true#2" alt="kudos to @mechero">
+</picture>
+<picture>
+  <source srcset="https://github-kudos.com/manuelarte/kudos/ilinsky?light=false#2" media="(prefers-color-scheme: dark)">
+  <img src="https://github-kudos.com/manuelarte/kudos/ilinsky?light=true#2" alt="kudos to @ilinsky">
+</picture>
 
 # 📊 GitHub Stats:
 <details>
