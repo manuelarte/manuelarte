@@ -66,6 +66,7 @@ Currently motivated to develop my first video game, using [Godot engine](https:/
 
 * [Mazemory](#Mazemory)
 * [ToastedSherpa](#ToastedSherpa)
+* [GitHub-Kudos](#GitHub-Kudos)
         
 ### [Mazemory](https://manuelarte.itch.io/mazemory) (ongoing)
 My first game ever made. A maze solving game.
