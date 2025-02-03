@@ -86,6 +86,15 @@ Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
+### GitHub-Kudos
+GitHub-Kudos is a way to give kudos to other GitHub users. More instructions on how to do it in here [github-kudos](https://github.com/manuelarte/github-kudos-template). 
+Example on how it looks [People I Recommend](#people-i-recommend).
+#### Technology stack
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+
 </details>
 
 ## 👨‍🎓 Failure Projects
