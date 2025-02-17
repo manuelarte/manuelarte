@@ -151,16 +151,16 @@ During my career as a software developer, I have had the privilege of working al
 
 <picture>
   <source srcset="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/mechero?mode=dark&alpha=50" media="(prefers-color-scheme: dark)">
-  <img src="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/mechero&alpha=50" alt="kudos to @mechero">
+  <img src="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/mechero?alpha=50" alt="kudos to @mechero">
 </picture>
 <picture>
   <source srcset="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/ilinsky?mode=dark&alpha=50" media="(prefers-color-scheme: dark)">
-  <img src="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/ilinsky&alpha=50" alt="kudos to @ilinsky">
+  <img src="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/ilinsky?alpha=50" alt="kudos to @ilinsky">
 </picture>
 
 <picture>
   <source srcset="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/JohnRoesler?mode=dark&alpha=50" media="(prefers-color-scheme: dark)">
-  <img src="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/JohnRoesler&alpha=50" alt="kudos to @JohnRoesler">
+  <img src="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/JohnRoesler?alpha=50" alt="kudos to @JohnRoesler">
 </picture>
 
 
