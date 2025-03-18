@@ -77,7 +77,7 @@ My first game ever made. A maze solving game.
 
 ### ToastedSherpa
 A [Discord](https://discord.com/) bot that parse screenshots of player's profile for the video game [Escape From Tarkov](https://escapefromtarkov.com/) and extract data to get statistics about "reported" players.
-Link describing the functionality: [Link](https://manueldoncel.blogspot.com/2024/08/tarkov-profile-parsed-toastedsherpa.html). Estimated costs ~20€/month
+[Link](https://manueldoncel.blogspot.com/2024/08/tarkov-profile-parsed-toastedsherpa.html). Estimated costs ~20€/month
 #### Technology stack
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
