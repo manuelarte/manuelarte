@@ -19,7 +19,7 @@ badges: https://github.com/inttter/md-badges
 
 Hi! I'm **Manuel Doncel Martos** (a.k.a. **manuelarte**).  
 
-I am a **Java Developer** currently working with **Go**. I'm passionate about learning new programming languages, which is why you'll also find me exploring languages like **Python** and **Rust**. I enjoy tackling challenges, experimenting with different tech stacks, and growing as a developer.
+I am a **Java Developer** currently working in **Go**. I'm passionate about learning new programming languages, which is why you'll also find me exploring languages like **Python** and **Rust**. I enjoy tackling challenges, experimenting with different tech stacks, and growing as a developer.
 
 ## 🔗 Contact:
 
@@ -30,6 +30,9 @@ Feel free to reach out or connect with me through the following platforms:
 </a>  
 <a href="mailto:manueldoncelmartos@gmail.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Email" height="32" width="32" />
+</a>
+<a href="https://gophers.slack.com/team/U0798PM0PED" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" height="32" width="32" />
 </a>
 
 ## 💻 Tech Stack:
@@ -57,7 +60,6 @@ Feel free to reach out or connect with me through the following platforms:
 ## 🌱 I’m currently learning ...
 
 I'm always looking to learn, grow, and contribute to exciting projects.
-Currently motivated to develop my first video game, using [Godot engine](https://godotengine.org/) to bring creative concepts to life.
 
 ## 📡 Live Projects
 
@@ -68,7 +70,7 @@ Currently motivated to develop my first video game, using [Godot engine](https:/
 * [ToastedSherpa](#ToastedSherpa)
 * [GitHub-Kudos](#GitHub-Kudos)
         
-### [Mazemory](https://manuelarte.itch.io/mazemory) (ongoing)
+### [Mazemory](https://manuelarte.itch.io/mazemory) (on hold)
 My first game ever made. A maze solving game.
 #### Technology stack
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
