@@ -34,6 +34,9 @@ Feel free to reach out or connect with me through the following platforms:
 <a href="https://gophers.slack.com/team/U0798PM0PED" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" height="32" width="32" />
 </a>
+<a href="https://t.me/manuelarte" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" height="32" width="32" />
+</a>
 
 ## 💻 Tech Stack:
 
