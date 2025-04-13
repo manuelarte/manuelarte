@@ -62,7 +62,7 @@ Feel free to reach out or connect with me through the following platforms:
 
 ## 🌱 I’m currently learning ...
 
-I'm always looking to learn, grow, and contribute to exciting projects.
+I'm always looking to learn, grow, and contribute to exciting projects. Currently I am learning Flutter [![Flutter]([https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine](https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white))](#) woking on an web app to record and keep track of the goals/assist in your football games. 
 
 ## 📡 Live Projects
 
