@@ -80,18 +80,6 @@ My first game ever made. A maze solving game.
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
-### ToastedSherpa
-A [Discord](https://discord.com/) bot that parse screenshots of player's profile for the video game [Escape From Tarkov](https://escapefromtarkov.com/) and extract data to get statistics about "reported" players.
-[Link](https://manueldoncel.blogspot.com/2024/08/tarkov-profile-parsed-toastedsherpa.html). Estimated costs ~20€/month
-#### Technology stack
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-[Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
-
 ### GitHub-Kudos
 GitHub-Kudos is a way to give kudos to other GitHub users. More instructions on how to do it in here [github-kudos](https://github.com/manuelarte/github-kudos-template). 
 Example on how it looks [People I Recommend](#people-i-recommend).
