@@ -70,7 +70,6 @@ I'm always looking to learn, grow, and contribute to exciting projects. Currentl
 <summary>Open for more details</summary>
 
 * [Mazemory](#Mazemory)
-* [ToastedSherpa](#ToastedSherpa)
 * [GitHub-Kudos](#GitHub-Kudos)
         
 ### [Mazemory](https://manuelarte.itch.io/mazemory) (on hold)
