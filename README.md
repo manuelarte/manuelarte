@@ -40,20 +40,23 @@ Feel free to reach out or connect with me through the following platforms:
 
 ## 💻 Tech Stack:
 
-### Programming Languages  
+### Programming Languages
+
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
-### Frameworks and Tools 
+### Frameworks and Tools
+
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 ### DevOps & Cloud
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
@@ -62,7 +65,7 @@ Feel free to reach out or connect with me through the following platforms:
 
 ## 🌱 I’m currently learning ...
 
-I'm always looking to learn, grow, and contribute to exciting projects. Currently I am learning Flutter [![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white)](#) woking on an web app to record and keep track of the goals/assist in your football games. 
+I'm always looking to learn, grow, and contribute to exciting projects. Currently I am learning UI/UX, woking on an web app to record and keep track of the goals/assist in your football games. 
 
 ## 📡 Live Projects
 
@@ -102,6 +105,7 @@ Example on how it looks [People I Recommend](#people-i-recommend).
 An Android app designed for amateur and recreational football players to **log their matches, track individual goals, assist and evaluate their overall performance**. The app provided statistics and insight such as total goals, assists, progess over time, etc, helping players improve their game and stay motivated.
 
 #### Technology stack
+
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
@@ -112,9 +116,11 @@ An Android app designed for amateur and recreational football players to **log t
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
   
 ### 🔫 TarkovTeamKillTracker
+
 A fun and interactive Discord bot designed for Escape From Tarkov players to **log and track team kills among friends**. Whenever a team kill is registered, the bot delivers a humorous roast to the team killed perpetrator. It also had achievements to *"reward"* 🏆 players for their *"friendly fire"*.
 
 #### Technology stack
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -123,8 +129,11 @@ A fun and interactive Discord bot designed for Escape From Tarkov players to **l
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
 ### 📊 FootballBootsTracker
+
 An web app to keep track of your football boots, and your performance, goals and assists using them. It featured an Event Sourcing and [CQRS](https://martinfowler.com/bliki/CQRS.html) with the Axon Framework architecture.
+
 #### Technology stack
+
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Axon Framework](https://img.shields.io/badge/AxonFramework-white)](#)
