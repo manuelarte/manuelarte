@@ -45,7 +45,8 @@ Feel free to reach out or connect with me through the following platforms:
 ## 🌱 I’m currently learning
 
 I'm always looking to learn, grow, and contribute to exciting projects.
-Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your football games.
+Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your [football games](https://flexingmygoals.vercel.app/).
+
 I also like to read technical books, the last ones I read are:
 
 <a href="https://www.oreilly.com/library/view/communication-patterns/9781098140533/" target="_blank">
