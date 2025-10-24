@@ -19,11 +19,13 @@ badges: https://github.com/inttter/md-badges
 
 Hi! I'm **Manuel Doncel Martos** (a.k.a. **manuelarte**).  
 
-I am a **Java Developer** currently working in **Go**.
-I'm passionate about learning new programming languages, which is why you'll also find me exploring languages like **Python** and **Rust**.
+I am a Technical Lead with experience in **Java** and **Go**.
+I'm passionate about learning new programming languages, which is why you'll also find me exploring other languages like **Python** and **Rust**.
 I enjoy tackling challenges, experimenting with different tech stacks, and growing as a developer.
 
-## 🔗 Contact
+[Download my resume](https://github.com/manuelarte/my-resume/blob/master/resume.pdf)!
+
+## 📫 How to reach me:
 
 Feel free to reach out or connect with me through the following platforms:
 
@@ -38,6 +40,24 @@ Feel free to reach out or connect with me through the following platforms:
 </a>
 <a href="https://t.me/manuelarte" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" height="32" width="32" />
+</a>
+
+## 🌱 I’m currently learning
+
+I'm always looking to learn, grow, and contribute to exciting projects.
+Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your football games.
+I also like to read technical books, the last ones I read are:
+
+<a href="https://www.oreilly.com/library/view/communication-patterns/9781098140533/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098140533/400w/" alt="communication patterns" width="100"/>
+</a>
+
+<a href="https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098100124/400w/" alt="communication patterns" width="100"/>
+</a>
+
+<a href="https://www.oreilly.com/library/view/the-engineering-leader/9781098154059/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098154059/400w/" alt="communication patterns" width="100"/>
 </a>
 
 ## 💻 Tech Stack
@@ -64,11 +84,6 @@ Feel free to reach out or connect with me through the following platforms:
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
-
-## 🌱 I’m currently learning
-
-I'm always looking to learn, grow, and contribute to exciting projects.
-Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your football games.
 
 ## 📡 Live Projects
 
