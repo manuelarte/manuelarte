@@ -19,11 +19,13 @@ badges: https://github.com/inttter/md-badges
 
 Hi! I'm **Manuel Doncel Martos** (a.k.a. **manuelarte**).  
 
-I am a **Java Developer** currently working in **Go**.
-I'm passionate about learning new programming languages, which is why you'll also find me exploring languages like **Python** and **Rust**.
+I am a Technical Lead with experience in **Java** and **Go**.
+I'm passionate about learning new programming languages, which is why you'll also find me exploring other languages like **Python** and **Rust**.
 I enjoy tackling challenges, experimenting with different tech stacks, and growing as a developer.
 
-## 🔗 Contact
+[Download my resume](https://github.com/manuelarte/my-resume/blob/master/resume.pdf)!
+
+## 📫 How to reach me:
 
 Feel free to reach out or connect with me through the following platforms:
 
