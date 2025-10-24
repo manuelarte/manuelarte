@@ -48,9 +48,17 @@ I'm always looking to learn, grow, and contribute to exciting projects.
 Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your football games.
 I also like to read technical books, the last ones I read are:
 
-* [Communication Patterns](https://www.oreilly.com/library/view/communication-patterns/9781098140533/).
-* [Learning Domain Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/).
-* [The Engineering Leader](https://www.oreilly.com/library/view/the-engineering-leader/9781098154059/).
+<a href="https://www.oreilly.com/library/view/communication-patterns/9781098140533/">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098140533/400w/" alt="communication patterns" width="100"/>
+</a>
+
+<a href="https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098100124/400w/" alt="communication patterns" width="100"/>
+</a>
+
+<a href="https://www.oreilly.com/library/view/the-engineering-leader/9781098154059/">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098154059/400w/" alt="communication patterns" width="100"/>
+</a>
 
 ## 💻 Tech Stack
 
