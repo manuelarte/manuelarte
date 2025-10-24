@@ -53,11 +53,11 @@ I also like to read technical books, the last ones I read are:
 </a>
 
 <a href="https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098100124/400w/" alt="communication patterns" width="100"/>
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098100124/400w/" alt="learning domain driven design" width="100"/>
 </a>
 
 <a href="https://www.oreilly.com/library/view/the-engineering-leader/9781098154059/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098154059/400w/" alt="communication patterns" width="100"/>
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098154059/400w/" alt="the engineering leader" width="100"/>
 </a>
 
 ## 💻 Tech Stack
