@@ -23,7 +23,7 @@ I am a Technical Lead with experience in **Java** and **Go**.
 I'm passionate about learning new programming languages, which is why you'll also find me exploring other languages like **Python** and **Rust**.
 I enjoy tackling challenges, experimenting with different tech stacks, and growing as a developer.
 
-[Download my resume](https://github.com/manuelarte/my-resume/blob/master/resume.pdf)!
+[Download my resume!](https://github.com/manuelarte/my-resume/blob/master/resume.pdf)
 
 ## 📫 How to reach me:
 
