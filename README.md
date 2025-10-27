@@ -207,3 +207,12 @@ Here I give kudos to some of them:
         alt="kudos to @JohnRoesler">
   </picture>
 </a>
+
+<a href="https://github.com/survivorbat">
+  <picture>
+    <source srcset="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/survivorbat?mode=dark&alpha=50"
+        media="(prefers-color-scheme: dark)">
+    <img src="https://github-kudos-app-583443160348.europe-west4.run.app/manuelarte/kudos/survivorbat?alpha=50"
+        alt="kudos to @survivorbat">
+  </picture>
+</a>
