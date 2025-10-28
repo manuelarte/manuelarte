@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-file MD013 -->
 # Technical Books I have read
 
 | Book                                                                                                                                                                                                                                    | Mark  | Comments                      |
