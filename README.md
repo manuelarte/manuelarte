@@ -41,6 +41,9 @@ Feel free to reach out or connect with me through the following platforms:
 <a href="https://t.me/manuelarte" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" height="32" width="32" />
 </a>
+<a href="https://discord.com/users/690179400527773717" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" height="32" width="32" />
+</a>
 
 ## 🌱 I’m currently learning
 
