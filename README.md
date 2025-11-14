@@ -48,7 +48,7 @@ Feel free to reach out or connect with me through the following platforms:
 ## 🌱 I’m currently learning
 
 I'm always looking to learn, grow, and contribute to exciting projects.
-Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your [football games](https://flexingmygoals.vercel.app/).
+Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your football games, [FlexingMyGoals](https://flexingmygoals.com/).
 
 I also like to read technical books, the last ones I read are:
 
@@ -94,8 +94,19 @@ I also like to read technical books, the last ones I read are:
 <details>
 <summary>Open for more details</summary>
 
+* [FlexingMyGoals](#flexingmygoals)
 * [Mazemory](#mazemory-on-hold)
 * [GitHub-Kudos](#github-kudos)
+
+### [FlexingMyGoals](https://flexingmygoals.com)
+
+A web to recreate and share your football/soccer goals. No need to login, just recreate your goal and share it with your friends.
+
+
+#### Technology stack
+
+[![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://www.vuejs.org/)
+[![Google Cloud](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 ### [Mazemory](https://manuelarte.itch.io/mazemory) (on hold)
 
@@ -219,3 +230,5 @@ Here I give kudos to some of them:
         alt="kudos to @survivorbat">
   </picture>
 </a>
+
+If you also want to give kudos to other users, check [GitHub Kudos](https://github.com/manuelarte/github-kudos-template).
