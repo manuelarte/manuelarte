@@ -1,4 +1,4 @@
-<!--
+<img width="300" height="394" alt="image" src="https://github.com/user-attachments/assets/d09a2787-fbc8-4a68-9cdd-31576f86a51d" /><!--
 **manuelarte/manuelarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -50,18 +50,14 @@ Feel free to reach out or connect with me through the following platforms:
 I'm always looking to learn, grow, and contribute to exciting projects.
 Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your football games, [FlexingMyGoals](https://flexingmygoals.com/).
 
-I also like to read technical books, the last ones I read are:
+I also like to read technical books, the last ones I read or am reading are:
 
-<a href="https://www.oreilly.com/library/view/communication-patterns/9781098140533/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098140533/400w/" alt="communication patterns" width="100"/>
+<a href="https://www.oreilly.com/library/view/terraform-up-and/9781098116736/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098116736/400w/" alt="terraform up and running" width="100"/>
 </a>
 
-<a href="https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098100124/400w/" alt="learning domain driven design" width="100"/>
-</a>
-
-<a href="https://www.oreilly.com/library/view/the-engineering-leader/9781098154059/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098154059/400w/" alt="the engineering leader" width="100"/>
+<a href="https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781492057888/400w/" alt="building event-driven microservices" width="100"/>
 </a>
 
 ## 💻 Tech Stack
