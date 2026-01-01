@@ -1,4 +1,4 @@
-<img width="300" height="394" alt="image" src="https://github.com/user-attachments/assets/d09a2787-fbc8-4a68-9cdd-31576f86a51d" /><!--
+<!--
 **manuelarte/manuelarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
