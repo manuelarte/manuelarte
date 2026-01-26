@@ -56,10 +56,6 @@ I also like to read technical books, the last ones I read or am reading are:
     <img src="https://www.oreilly.com/covers/urn:orm:book:9781098116736/400w/" alt="terraform up and running" width="100"/>
 </a>
 
-<a href="https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781492057888/400w/" alt="building event-driven microservices" width="100"/>
-</a>
-
 ## 💻 Tech Stack
 
 ### Programming Languages
