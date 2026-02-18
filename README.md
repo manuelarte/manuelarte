@@ -60,6 +60,11 @@ I also like to read technical books, the last ones I read or am reading are:
     <img src="https://m.media-amazon.com/images/I/71ngR++SKRL._SL1500_.jpg" alt="the software architect elevator" width="100"/>
 </a>
 
+## 📝 Latest Posts
+
+- [What Developers Don't Get About Idempotence](https://dev.to/manuelarte/what-developers-dont-get-about-idempotency-1hgm).
+- [Elegant Domain Driven Design Objects In Go](https://dev.to/manuelarte/elegant-domain-driven-design-objects-in-go-2bhi).
+
 ## 💻 Tech Stack
 
 ### Programming Languages
