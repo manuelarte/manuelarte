@@ -52,12 +52,12 @@ Currently, I am learning UI/UX, working on a web app to record and keep track of
 
 I also like to read technical books, the last ones I read or am reading are:
 
-<a href="https://www.oreilly.com/library/view/terraform-up-and/9781098116736/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098116736/400w/" alt="terraform up and running" width="100"/>
+<a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781491903063/400w/" alt="designing data intensive applications" width="100"/>
 </a>
 
-<a href="https://architectelevator.com/" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/71ngR++SKRL._SL1500_.jpg" alt="the software architect elevator" width="100"/>
+<a href="https://www.oreilly.com/library/view/designing-distributed-systems/9781098156343/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098156343/400w/" alt="designing distributed systems" width="100" />
 </a>
 
 ## 📝 Latest Posts
