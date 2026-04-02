@@ -99,7 +99,7 @@ Instead of relying only on conventions or review comments, I prefer making expec
 
 - [funcorder](https://github.com/manuelarte/funcorder): Check that exported functions are declared before unexported ones.
 - [embeddedstructfieldcheck](https://github.com/manuelarte/embeddedstructfieldcheck): Check that embedded structs are declared first and there is an empty space between the embedded struct(s) and the non-embedded ones.
-- [godddlint](https://github.com/manuelarte/embeddedstructfieldcheck): Check some good practices when creating domain objects (Entities and Value Objetcs).
+- [godddlint](https://github.com/manuelarte/embeddedstructfieldcheck): Check some good practices when creating domain objects (Entities and Value Objects).
 - [testcomments](https://github.com/manuelarte/testcomments): Check test practices described in [TestComments](https://go.dev/wiki/TestComments).
 
 ## 📡 Live Projects
