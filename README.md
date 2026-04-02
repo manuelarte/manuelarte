@@ -19,9 +19,9 @@ badges: https://github.com/inttter/md-badges
 
 Hi! I'm **Manuel Doncel Martos** (a.k.a. **manuelarte**).  
 
-I am a Technical Lead with experience in **Java** and **Go**.
-I'm passionate about learning new programming languages, which is why you'll also find me exploring other languages like **Python** and **Rust**.
-I enjoy tackling challenges, experimenting with different tech stacks, and growing as a developer.
+I’m a Technical Lead with experience building **large-scale, user-facing systems and distributed architectures**.
+Most of my work is in **Java** and **Go**, but I’m always learning (currently exploring Python and Rust).
+I enjoy solving tough engineering problems, experimenting with new technologies, and continuously improving how software is built and operated.
 
 [Download my resume!](https://github.com/manuelarte/my-resume/blob/master/resume.pdf)
 
@@ -50,21 +50,22 @@ Feel free to reach out or connect with me through the following platforms:
 I'm always looking to learn, grow, and contribute to exciting projects.
 Currently, I am learning UI/UX, working on a web app to record and keep track of the goals/assist in your football games, [FlexingMyGoals](https://flexingmygoals.com/).
 
-I also like to read technical books, the last ones I read or am reading are:
+I also like to read technical books, the last one(s) I read or am reading are:
 
-<a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781491903063/400w/" alt="designing data intensive applications" width="100"/>
+<a href="https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781492034018/400w/" alt="building microservices" width="100"/>
 </a>
 
-<a href="https://www.oreilly.com/library/view/designing-distributed-systems/9781098156343/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098156343/400w/" alt="designing distributed systems" width="100" />
-</a>
+This is my [GoodReads profile](https://www.goodreads.com/user/show/196325942-manuel-doncel-martos).
 
 ## 📝 Latest Posts
+
+From time to time, I write short posts about engineering topics that often show up in day‑to‑day work but are not always well understood:
 
 - [What Developers Don't Get About Idempotence](https://dev.to/manuelarte/what-developers-dont-get-about-idempotency-1hgm).
 - [Elegant Domain Driven Design Objects In Go](https://dev.to/manuelarte/elegant-domain-driven-design-objects-in-go-2bhi).
 
+<!--
 ## 💻 Tech Stack
 
 ### Programming Languages
@@ -89,6 +90,17 @@ I also like to read technical books, the last ones I read or am reading are:
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+-->
+
+## Go Linters
+
+I care deeply about code quality and about reducing cognitive load for developers. One way I approach this is by building custom Go linters that encode and enforce a team’s agreed‑upon guidelines, so developers don’t have to remember or debate them during code reviews.
+Instead of relying only on conventions or review comments, I prefer making expectations explicit, automated, and consistent. This allows teams to focus their mental energy on solving real problems rather than on formatting or structural debates.
+
+- [funcorder](https://github.com/manuelarte/funcorder): Check that exported functions are declared before unexported ones.
+- [embeddedstructfieldcheck](https://github.com/manuelarte/embeddedstructfieldcheck): Check that embedded structs are declared first and there is an empty space between the embedded struct(s) and the non-embedded ones.
+- [godddlint](https://github.com/manuelarte/embeddedstructfieldcheck): Check some good practices when creating domain objects (Entities and Value Objetcs).
+- [testcomments](https://github.com/manuelarte/testcomments): Check test practices described in [TestComments](https://go.dev/wiki/TestComments).
 
 ## 📡 Live Projects
 
@@ -100,6 +112,9 @@ I also like to read technical books, the last ones I read or am reading are:
 * [GitHub-Kudos](#github-kudos)
 
 ### [FlexingMyGoals](https://flexingmygoals.com)
+
+> [!NOTE]
+> Under development.
 
 A web to recreate and share your football/soccer goals. No need to login, just recreate your goal and share it with your friends.
 
