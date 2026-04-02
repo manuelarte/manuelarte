@@ -94,8 +94,10 @@ From time to time, I write short posts about engineering topics that often show 
 
 ## Go Linters
 
-I care deeply about code quality and about reducing cognitive load for developers. One way I approach this is by building custom Go linters that encode and enforce a team’s agreed‑upon guidelines, so developers don’t have to remember or debate them during code reviews.
-Instead of relying only on conventions or review comments, I prefer making expectations explicit, automated, and consistent. This allows teams to focus their mental energy on solving real problems rather than on formatting or structural debates.
+I care deeply about code quality and about reducing cognitive load for developers.
+One way I approach this is by building custom Go linters that encode and enforce a team’s agreed‑upon guidelines, so developers don’t have to remember or debate them during code reviews.
+Instead of relying only on conventions or review comments, I prefer making expectations explicit, automated, and consistent.
+This allows teams to focus their mental energy on solving real problems rather than on formatting or structural debates.
 
 - [funcorder](https://github.com/manuelarte/funcorder): Check that exported functions are declared before unexported ones.
 - [embeddedstructfieldcheck](https://github.com/manuelarte/embeddedstructfieldcheck): Check that embedded structs are declared first and there is an empty space between the embedded struct(s) and the non-embedded ones.
