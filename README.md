@@ -99,8 +99,8 @@ One way I approach this is by building custom Go linters that encode and enforce
 Instead of relying only on conventions or review comments, I prefer making expectations explicit, automated, and consistent.
 This allows teams to focus their mental energy on solving real problems rather than on formatting or structural debates.
 
-- [funcorder](https://github.com/manuelarte/funcorder): Check that exported functions are declared before unexported ones.
-- [embeddedstructfieldcheck](https://github.com/manuelarte/embeddedstructfieldcheck): Check that embedded structs are declared first and with an empty space between the embedded and the non-embedded struct(s).
+- [funcorder][funcorder]: Check that exported functions are declared before unexported ones.
+- [embeddedstructfieldcheck][embeddedstructfieldcheck]: Check that embedded structs are declared first and with an empty space between the embedded and the non-embedded struct(s).
 - [godddlint](https://github.com/manuelarte/embeddedstructfieldcheck): Check some good practices when creating domain objects (Entities and Value Objects).
 - [testcomments](https://github.com/manuelarte/testcomments): Check test practices described in [TestComments](https://go.dev/wiki/TestComments).
 
@@ -250,3 +250,6 @@ Here I give kudos to some of them:
 </a>
 
 If you also want to give kudos to other users, check [GitHub Kudos](https://github.com/manuelarte/github-kudos-template).
+
+[funcorder]: https://github.com/manuelarte/funcorder
+[embeddedstructfieldcheck]: https://github.com/manuelarte/embeddedstructfieldcheck
