@@ -116,6 +116,7 @@ This allows teams to focus their mental energy on solving real problems rather t
 ### [FlexingMyGoals](https://flexingmygoals.com)
 
 > [!NOTE]
+> 
 > Under development.
 
 A web to recreate and share your football/soccer goals. No need to login, just recreate your goal and share it with your friends.
@@ -146,6 +147,7 @@ Example on how it looks [People I Recommend](#-people-i-recommend).
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)](https://developer.hashicorp.com/terraform)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com)
 
 </details>
