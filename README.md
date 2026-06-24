@@ -104,6 +104,7 @@ This allows teams to focus their mental energy on solving real problems rather t
 - [embeddedstructfieldcheck][embeddedstructfieldcheck]: Check that embedded structs are declared first and with an empty space between the embedded and the non-embedded struct(s).
 - [godddlint](https://github.com/manuelarte/godddlint): Check some good practices when creating domain objects (Entities and Value Objects).
 - [testcomments](https://github.com/manuelarte/testcomments): Check test practices described in [TestComments](https://go.dev/wiki/TestComments).
+- [structinit](https://github.com/manuelarte/structinit): Ensure struct's field initialization order matches struct's field declaration.
 
 ## 📡 Live Projects
 
