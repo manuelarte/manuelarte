@@ -19,11 +19,13 @@ badges: https://github.com/inttter/md-badges
 
 Hi! I'm **Manuel Doncel Martos** (a.k.a. **manuelarte**).  
 
-I’m a Technical Lead with experience building **large-scale, user-facing systems and distributed architectures**.
-Most of my work is in **Java** and **Go**, but I’m always learning (currently exploring Python and Rust).
-I enjoy solving tough engineering problems, experimenting with new technologies, and continuously improving how software is built and operated.
+I am a Technical Lead with experience in building scalable and distributed systems. I have commercial experience in Java and Go, but I'm passionate about learning new technologies and programming languages, which is why you'll also find me exploring Python and Rust.
 
-[Download my resume!](https://github.com/manuelarte/my-resume/blob/master/resume.pdf)
+I enjoy tackling complex challenges, experimenting with different technology stacks, and continuously growing as an engineer.
+
+I am a strong advocate for continuous refactoring and incremental improvement. I encourage teams to invest in code quality, reduce technical debt, and adopt engineering best practices that improve maintainability, reliability, and long-term delivery speed.
+
+[Download my resume!](https://github.com/manuelarte/my-resume/blob/master/ManuelDoncel_TechLead.pdf)
 
 ## 📫 How to reach me:
 
