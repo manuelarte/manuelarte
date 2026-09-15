@@ -58,6 +58,10 @@ I also like to read technical books, the last one(s) I read or am reading are:
     <img src="https://www.oreilly.com/covers/urn:orm:book:9781492082781/400w/?format=webp" alt="software engineering at google" width="100"/>
 </a>
 
+<a href="https://www.oreilly.com/library/view/ai-engineering/9781098166298/" target="_blank">
+    <img src="https://www.oreilly.com/covers/urn:orm:book:9781098166298/400w/?format=webp" alt="ai engineering" width="100"/>
+</a>
+
 This is my [GoodReads profile](https://www.goodreads.com/user/show/196325942-manuel-doncel-martos).
 
 ## 📝 Latest Posts
