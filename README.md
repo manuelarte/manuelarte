@@ -68,6 +68,7 @@ This is my [GoodReads profile](https://www.goodreads.com/user/show/196325942-man
 
 From time to time, I write short posts about engineering topics that often show up in day‑to‑day work but are not always well understood:
 
+- [Building a Culture of Continuous Refactoring](https://dev.to/manuelarte/building-a-culture-of-continuous-refactoring-21o1).
 - [Create Your First Linter in Go](https://dev.to/manuelarte/create-your-first-linter-in-go-164).
 - [What Developers Don't Get About Idempotence](https://dev.to/manuelarte/what-developers-dont-get-about-idempotency-1hgm).
 - [Elegant Domain Driven Design Objects In Go](https://dev.to/manuelarte/elegant-domain-driven-design-objects-in-go-2bhi).
