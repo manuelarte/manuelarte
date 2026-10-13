@@ -54,10 +54,6 @@ Currently, I am learning UI/UX, working on a web app to record and keep track of
 
 I also like to read technical books, the last one(s) I read or am reading are:
 
-<a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/" target="_blank">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:9781492082781/400w/?format=webp" alt="software engineering at google" width="100"/>
-</a>
-
 <a href="https://www.oreilly.com/library/view/ai-engineering/9781098166298/" target="_blank">
     <img src="https://www.oreilly.com/covers/urn:orm:book:9781098166298/400w/?format=webp" alt="ai engineering" width="100"/>
 </a>
